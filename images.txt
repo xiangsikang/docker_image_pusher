@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-keking/kkfileview-jdk:4.3.0
+#keking/kkfileview-jdk:4.3.0
+yeelabs/yearning:v3.1.8
