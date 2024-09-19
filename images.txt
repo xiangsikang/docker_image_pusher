@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #keking/kkfileview-jdk:4.3.0
-yeelabs/yearning:v3.1.8
+#yeelabs/yearning:v3.1.8
+sonatype/nexus3:3.72.0
