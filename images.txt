@@ -8,4 +8,9 @@
 #yeelabs/yearning:v3.1.8
 #sonatype/nexus3:3.72.0
 #node:20.16-alpine
-ddsderek/runlike:latest
+#ddsderek/runlike:latest
+
+langgenius/dify-api:0.13.1
+langgenius/dify-web:0.13.1
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:6.6-24.04_edge
