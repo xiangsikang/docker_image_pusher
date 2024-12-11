@@ -10,7 +10,9 @@
 #node:20.16-alpine
 #ddsderek/runlike:latest
 
-langgenius/dify-api:0.13.1
-langgenius/dify-web:0.13.1
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:6.6-24.04_edge
+#langgenius/dify-api:0.13.1
+#langgenius/dify-web:0.13.1
+#langgenius/dify-sandbox:0.2.10
+#ubuntu/squid:6.6-24.04_edge
+
+oraclelinux:8-slim
