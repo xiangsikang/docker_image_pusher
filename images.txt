@@ -15,4 +15,5 @@
 #langgenius/dify-sandbox:0.2.10
 #ubuntu/squid:6.6-24.04_edge
 
-oraclelinux:8-slim
+#oraclelinux:8-slim
+oraclelinux:8.10
