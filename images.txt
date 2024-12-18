@@ -7,6 +7,7 @@
 #keking/kkfileview-jdk:4.3.0
 #yeelabs/yearning:v3.1.8
 #sonatype/nexus3:3.72.0
+sonatype/nexus3:3.69.0
 #node:20.16-alpine
 #ddsderek/runlike:latest
 
@@ -18,4 +19,4 @@
 #oraclelinux:8-slim
 #oraclelinux:8.10
 
-node:18-alpine
+#node:18-alpine
