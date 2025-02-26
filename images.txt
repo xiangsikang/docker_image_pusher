@@ -22,8 +22,7 @@ sonatype/nexus3:3.70.3
 
 #node:18-alpine
 
-langgenius/dify-api:0.15.3
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
-langgenius/dify-plugin-daemon:0.0.2-local
-ubuntu/squid:6.10-24.10_edg
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
+#langgenius/dify-plugin-daemon:0.0.2-local
+ubuntu/squid:6.10-24.10_edge
