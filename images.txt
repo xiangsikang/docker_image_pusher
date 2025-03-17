@@ -27,6 +27,8 @@ sonatype/nexus3:3.70.3
 #langgenius/dify-plugin-daemon:0.0.2-local
 #ubuntu/squid:6.10-24.10_edge
 
-langgenius/dify-plugin-daemon:0.0.3-local
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
+#langgenius/dify-plugin-daemon:0.0.3-local
+#langgenius/dify-api:1.0.0
+#langgenius/dify-web:1.0.0
+searxng/searxng:2025.3.16-bbb2894b0
+
