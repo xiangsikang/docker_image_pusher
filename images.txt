@@ -1,5 +1,7 @@
-langgenius/dify-sandbox:0.2.11
-langgenius/dify-plugin-daemon:0.0.6-local
+python:3.13-alpine
+
+#langgenius/dify-sandbox:0.2.11
+#langgenius/dify-plugin-daemon:0.0.6-local
 
 
 
