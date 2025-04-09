@@ -1,4 +1,7 @@
-python:3.13-alpine
+
+sonarqube:25.4.0.105899-community
+
+#python:3.13-alpine
 
 #langgenius/dify-sandbox:0.2.11
 #langgenius/dify-plugin-daemon:0.0.6-local
